@@ -1,0 +1,333 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "viewtype": "ar"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "3DContainer-1",
+            "widget-name": "3D Container",
+            "is-widget-container": "true"
+          },
+          "name": "twx-dt-view",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "model-1",
+                    "widget-name": "model-1",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/bike.pvz",
+                    "scale": "1.0000",
+                    "x": "-0.0000",
+                    "y": "0.5499",
+                    "z": "-0.1353",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "visible": "false"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "f_wheel",
+                            "widget-name": "f_wheel",
+                            "click-expression": "wheel();",
+                            "is-widget-container": "true",
+                            "model": "model-1",
+                            "idpath": "/0/0/0/4",
+                            "scale": "1.0000",
+                            "x": "0.0000",
+                            "y": "-0.1463",
+                            "z": "0.8693",
+                            "rx": "23.00",
+                            "ry": "-0.00",
+                            "rz": "-180.00",
+                            "opacity": "0.1"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "modelItem-1",
+                            "widget-name": "modelItem-1",
+                            "click-expression": "Bwheel();",
+                            "is-widget-container": "true",
+                            "model": "model-1",
+                            "idpath": "/0/0/7/0/2/11",
+                            "scale": "1.0000",
+                            "x": "0.0000",
+                            "y": "0.0000",
+                            "z": "0.0000",
+                            "rx": "0.00",
+                            "ry": "90.00",
+                            "rz": "-90.00",
+                            "opacity": "0.1"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "modelItem-2",
+                            "widget-name": "modelItem-2",
+                            "click-expression": "engine();",
+                            "is-widget-container": "true",
+                            "model": "model-1",
+                            "idpath": "/0/0/1",
+                            "scale": "1.0000",
+                            "x": "0.0000",
+                            "y": "0.0000",
+                            "z": "0.0000",
+                            "rx": "0.00",
+                            "ry": "0.00",
+                            "rz": "0.00",
+                            "opacity": "0.1"
+                          },
+                          "name": "twx-dt-modelitem",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "modelTarget-2",
+                    "advanced-guide-url": "_generated_/mtg/4e432ca8-f677-4dbf-a24b-1966e00f3a71-temp.png",
+                    "detection-position": "{\"globalPosition\":{\"x\":0.23892414187754216,\"y\":0.09418768840790279,\"z\":3.73303991207052},\"axisAngle\":{\"x\":0.9999867157498125,\"y\":0.008122094357278387,\"z\":-0.8211869670697278,\"w\":3.1422277732724524},\"cameraLocation\":{\"position\":{\"x\":3.6141951084136963,\"y\":0.1235312819480896,\"z\":0.961185097694397,\"valid\":true},\"orientation\":{\"x\":2.2010364532470703,\"y\":78.77529907226562,\"z\":2.737945079803467},\"scale\":{\"x\":1.0000001192092896,\"y\":1.0000003576278687,\"z\":0.999999463558197},\"valid\":true},\"modelScale\":1,\"origModelSize\":{\"x\":0.820580005645752,\"y\":1.2144874334335327,\"z\":2.058401107788086}}",
+                    "target-id": "4e432ca8-f677-4dbf-a24b-1966e00f3a71",
+                    "widget-name": "modelTarget-2",
+                    "url": "_generated_/mtg/4e432ca8-f677-4dbf-a24b-1966e00f3a71-temp.png",
+                    "y": "0.5498999953269958",
+                    "z": "-0.13529999554157257",
+                    "rx": "0",
+                    "upgraded": "true",
+                    "model": "model-1",
+                    "istracked": "true"
+                  },
+                  "name": "twx-dt-target-model-combined"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "3DImage-1",
+                    "widget-name": "3DImage-1",
+                    "src": "Uploaded/feature_fork.png",
+                    "scale": "1.0000",
+                    "x": "0.0000",
+                    "y": "0.8994",
+                    "z": "-2.3251",
+                    "rx": "0.00",
+                    "ry": "90.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-image"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "3DImage-2",
+                    "widget-name": "3DImage-2",
+                    "src": "Uploaded/feature_brake.png",
+                    "scale": "1.0000",
+                    "x": "0.0000",
+                    "y": "1.4409",
+                    "z": "1.3132",
+                    "rx": "0.00",
+                    "ry": "90.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-image"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "3DImage-3",
+                    "widget-name": "3DImage-3",
+                    "src": "Uploaded/feature_engine.png",
+                    "scale": "1.0000",
+                    "x": "0.0000",
+                    "y": "2.0400",
+                    "z": "-0.9306",
+                    "rx": "0.00",
+                    "ry": "90.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-image"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "tmlText-1",
+                    "widget-name": "tmlText-1",
+                    "text": "<script type=\"text/javascript\">\n                            function loginWithKakaoPopUp() {\n                                Kakao.Auth.login({\n                                    success: function(authObj) {\n                                        document.getElementById(\"Response\").innerText = JSON.stringify(authObj);\n                                        Kakao.Auth.setAccessToken(authObj.access_token);\n                                    },\n                                    fail: function(err) {\n                                        document.getElementById(\"Response\").innerText = JSON.stringify(err);\n                                    },\n                                })\n                            }\n\n                            function defaultSend() {\n                                document.getElementById(\"Response\").innerText = \"Response\";\n                                Kakao.API.request({\n                                    url: '/v2/api/talk/memo/default/send',\n                                    data: {\n                                        template_object: {\n                                            object_type: 'feed',\n                                            content: {\n                                                title: '카카오톡 링크 4.0',\n                                                description: '디폴트 템플릿 FEED',\n                                                image_url: 'http://test-tam.pe.kr/img/3.result.gif',\n                                                link: {\n                                                    mobileWebUrl: 'http://naver.com',                                                        \n                                                        web_url: 'http://naver.com',\n                                                },\n                                            },\n                                            social: {\n                                                like_count: 100,\n                                                comment_count: 200,\n                                            },\n                                            buttons: [{\n                                                    title: '쇼핑하러가기',\n                                                    link: {\n                                                        mobileWebUrl: 'http://naver.com',                                                        \n                                                        web_url: 'http://naver.com',\n                                                    },\n                                                },\n\n                                            ]\n                                        },\n                                    },\n                                    success: function(response) {\n                                        document.getElementById(\"Response\").innerText = JSON.stringify(response);\n                                    },\n                                    fail: function(error) {\n                                        document.getElementById(\"Response\").innerText = error;\n                                    },\n                                });\n                            }\n\n                            function defaultScrapSend() {\n                                document.getElementById(\"Response\").innerText = \"Response\";\n                                Kakao.API.request({\n                                    url: '/v2/api/talk/memo/scrap/send',\n                                    data: {\n                                        request_url: 'http://test-tam.pe.kr',\n                                    },\n                                    success: function(response) {\n                                        document.getElementById(\"Response\").innerText = JSON.stringify(response);\n                                    },\n                                    fail: function(error) {\n                                        document.getElementById(\"Response\").innerText = error;\n                                    },\n                                });\n                            }\n\n                            function defaultTemplateSend() {\n                                var TempleCode = 41666;\n                                document.getElementById(\"Response\").innerText = \"Response\";\n                                Kakao.API.request({\n                                    url: '/v2/api/talk/memo/send',\n                                    data: {\n                                        template_id: TempleCode,\n                                    },\n                                    success: function(response) {\n                                        document.getElementById(\"Response\").innerText = JSON.stringify(response);\n                                    },\n                                    fail: function(error) {\n                                        document.getElementById(\"Response\").innerText = error;\n                                    },\n                                });\n                            }\n\n                            function friendSend() {\n                                document.getElementById(\"Response\").innerText = \"Response\";\n                                Kakao.API.request({\n                                    url: '/v1/api/talk/friends/message/default/send',\n                                    data: {\n                                        receiver_uuids: ['rZysnKWWpp6ni7KEvIy4jLuXpJShk6ef_A'],\n                                        template_object: {\n                                            object_type: 'feed',\n                                            content: {\n                                                title: '카카오톡 링크 4.0',\n                                                description: '디폴트 템플릿 FEED',\n                                                image_url: 'http://mud-kage.kakao.co.kr/dn/Q2iNx/btqgeRgV54P/VLdBs9cvyn8BJXB3o7N8UK/kakaolink40_original.png',\n                                                link: {\n                                                    web_url: 'https://developers.kakao.com',\n                                                    mobile_web_url: 'https://developers.kakao.com',\n                                                },\n                                            },\n                                            social: {\n                                                like_count: 100,\n                                                comment_count: 200,\n                                            },\n                                            button_title: '바로 확인',\n                                        },\n                                    },\n                                    success: function(response) {\n                                        document.getElementById(\"Response\").innerText = JSON.stringify(response);\n                                    },\n                                    fail: function(error) {\n                                        document.getElementById(\"Response\").innerText = error;\n                                    },\n                                });\n                            }\n\n                            function sendDefault() {\n                                Kakao.Link.sendDefault({\n                                    objectType: 'feed',\n                                    content: {\n                                        title: '디저트 사진',\n                                        description: '아메리카노, 빵, 케익',\n                                        imageUrl: 'http://mud-kage.kakao.co.kr/dn/NTmhS/btqfEUdFAUf/FjKzkZsnoeE4o19klTOVI1/openlink_640x640s.jpg',\n                                        link: {\n                                            mobileWebUrl: 'https://googsu.com',\n                                            webUrl: 'https://googsu.com',\n                                            androidExecParams: 'test',\n                                        },\n                                    },\n\n                                });\n                            }\n\n                            function sendDefaultError() {\n                                var strTitle = \"test\";\n                                var imgURL = \"https://devtalk.kakao.com/user_avatar/devtalk.kakao.com/tim.l/32/9605_1.png\";\n                                var URL = \"http://localhost\";\n                                Kakao.Link.sendDefault({\n                                    objectType: 'text',\n                                    text: strTitle,\n                                    content: {\n                                        title: strTitle,\n                                        description: 'test',\n                                        imageUrl: imgURL,\n                                        link: {\n                                            mobileWebUrl: URL,\n                                            webUrl: URL,\n                                        },\n                                    },\n                                    buttons: [{\n                                        title: '웹으로 보기',\n                                        link: {\n                                            mobileWebUrl: URL,\n                                            webUrl: URL,\n                                        },\n                                    }, ],\n                                });\n                            }\n\n                            function linktxt() {\n                                Kakao.Link.sendDefault({\n                                    objectType: 'text',\n                                    text: '간단한 JavaScript SDK 샘플과 함께 카카오 플랫폼 서비스 개발을 시작해 보세요.',\n                                    link: {\n                                        mobileWebUrl: 'https://developers.kakao.com',\n                                        webUrl: 'https://developers.kakao.com'\n                                    },\n                                    serverCallbackArgs: { // 콜백 파라미터 설정\n                                        key: 'value'\n                                    }\n                                });\n                            }\n\n                            function linkscrap() {\n                                Kakao.Link.sendScrap({\n                                    requestUrl: 'https://googsu.com'\n                                });\n                            }\n                        </script>\n                        <p></p>\n                        <a id=\"custom-login-btn\" href=\"javascript:loginWithKakaoPopUp()\"><img src=\"//k.kakaocdn.net/14/dn/btqCn0WEmI3/nijroPfbpCa4at5EIsjyf0/o.jpg\" width=\"222\"></a>\n                        <button type=\"button\" class=\"btn btn-primary btn-sm\" onclick=\"javascript:defaultSend()\">나에게 기본 메시지 보내기</button>\n                        <button type=\"button\" class=\"btn btn-primary btn-sm\" onclick=\"javascript:defaultScrapSend()\">나에게 스크랩 메시지 보내기</button>\n                        <button type=\"button\" class=\"btn btn-primary btn-sm\" onclick=\"javascript:defaultTemplateSend()\">나에게 템플릿 메시지 보내기</button>\n                        <button type=\"button\" class=\"btn btn-primary btn-sm\" onclick=\"javascript:friendSend()\">친구에게 기본 메시지 보내기</button>\n                        <br>\n                        <button type=\"button\" class=\"btn btn-primary btn-sm\" onclick=\"javascript:sendDefault()\">링크 : 나에게 기본 메시지 보내기</button>\n                        <button type=\"button\" class=\"btn btn-primary btn-sm\" onclick=\"javascript:sendDefaultError()\">링크 : 에러재현</button>\n                        <button type=\"button\" class=\"btn btn-primary btn-sm\" onclick=\"javascript:linktxt()\">링크 : 텍스트</button>\n                        <button type=\"button\" class=\"btn btn-primary btn-sm\" onclick=\"javascript:linkscrap()\">링크 : 이미지 스크랩</button>\n                        <p></p>\n                        <div id=\"Response\" class=\"alert alert-primary\" role=\"alert\" style=\"overflow:hidden;word-wrap:break-word;\">Response</div>\n                        <pre><code class=\"JavaScript\" id=\"sample\"></code></pre>"
+                  },
+                  "name": "twx-tml-text"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "2DOverlay-1",
+            "widget-name": "2D Overlay",
+            "is-widget-container": "true"
+          },
+          "name": "twx-overlay",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-1",
+                    "widget-name": "Top Panel",
+                    "is-widget-container": "true",
+                    "position": "top"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "2DOverlayBody-1",
+                    "widget-name": "2D Body",
+                    "is-widget-container": "true"
+                  },
+                  "name": "twx-overlay-body",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-2",
+                            "widget-name": "Left Panel",
+                            "is-widget-container": "true",
+                            "position": "left"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-3",
+                            "widget-name": "Center Panel",
+                            "is-widget-container": "true",
+                            "position": "center"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        },
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "panel-4",
+                            "widget-name": "Right Panel",
+                            "is-widget-container": "true",
+                            "position": "right"
+                          },
+                          "name": "twx-overlay-container",
+                          "children": [
+                            {
+                              "name": "twx-container-content"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "panel-5",
+                    "widget-name": "Bottom Panel",
+                    "is-widget-container": "true",
+                    "position": "bottom"
+                  },
+                  "name": "twx-overlay-container",
+                  "children": [
+                    {
+                      "name": "twx-container-content",
+                      "children": [
+                        {
+                          "attributes": {
+                            "twx-widget": "",
+                            "widget-id": "button-1",
+                            "widget-name": "button-1",
+                            "click-expression": "tmls();",
+                            "text": "Button"
+                          },
+                          "name": "twx-button"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

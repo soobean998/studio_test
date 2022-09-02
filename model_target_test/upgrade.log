@@ -1,0 +1,71 @@
+[2022-04-21T00:53:44.462Z] debug: [twx-studio:upgrade:model_target_test] Begin upgrade of project
+[2022-04-21T00:53:44.463Z] info: [twx-studio:upgrade:model_target_test] Upgrading project
+[2022-04-21T00:53:44.613Z] debug: [twx-studio:upgrade:model_target_test] Make sure there are not any stale files lying around
+[2022-04-21T00:53:44.621Z] debug: [twx-studio:upgrade:model_target_test] Create .gitignore for project dir
+[2022-04-21T00:53:44.622Z] debug: [twx-studio:upgrade:model_target_test] Copying /src/**/* to project, overwrite=false
+[2022-04-21T00:53:44.624Z] debug: [twx-studio:upgrade:model_target_test] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2022-04-21T00:53:44.735Z] debug: [twx-studio:upgrade:model_target_test] Copy of project files complete
+[2022-04-21T00:53:44.735Z] debug: [twx-studio:upgrade:model_target_test] Updating version to 
+[2022-04-21T00:53:44.736Z] debug: [twx-studio:upgrade:model_target_test] onupgrade sucessful, now build the project
+[2022-04-21T00:53:44.736Z] debug: [twx-studio:upgrade:model_target_test] BEGIN buildApp
+[2022-04-21T00:53:44.736Z] debug: [twx-studio:upgrade:model_target_test] write settings
+[2022-04-21T00:53:44.736Z] debug: [twx-studio:upgrade:model_target_test] copy runtime extensions
+[2022-04-21T00:53:45.906Z] debug: [twx-studio:upgrade:model_target_test] packageThemeSet
+[2022-04-21T00:53:46.850Z] debug: [twx-studio:upgrade:model_target_test] onBuild
+[2022-04-21T00:53:46.850Z] info: [twx-studio:upgrade:model_target_test] Building ves-ar-extension app:
+[2022-04-21T00:53:47.497Z] debug: [twx-studio:upgrade:model_target_test] pathDir
+[2022-04-21T00:53:47.497Z] debug: [twx-studio:upgrade:model_target_test] scaffoldDir
+[2022-04-21T00:53:47.497Z] debug: [twx-studio:upgrade:model_target_test] copySrc
+[2022-04-21T00:53:48.124Z] debug: [twx-studio:upgrade:model_target_test] buildApp
+[2022-04-21T00:53:48.787Z] debug: [twx-studio:upgrade:model_target_test] END buildApp
+[2022-04-21T00:53:48.787Z] debug: [twx-studio:upgrade:model_target_test] Build succeeded.
+[2022-08-16T05:34:57.191Z] debug: [twx-studio:upgrade:model_target_test] Begin upgrade of project
+[2022-08-16T05:34:57.191Z] info: [twx-studio:upgrade:model_target_test] Upgrading project
+[2022-08-16T05:34:57.193Z] debug: [twx-studio:upgrade:model_target_test] Make sure there are not any stale files lying around
+[2022-08-16T05:34:57.193Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-08-16T05:34:57.197Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-08-16T05:34:57.284Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-08-16T05:34:57.304Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-08-16T05:34:57.323Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-08-16T05:34:57.325Z] debug: [twx-studio:upgrade:model_target_test] Copying /src/**/* to project, overwrite=false
+[2022-08-16T05:34:57.329Z] debug: [twx-studio:upgrade:model_target_test] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2022-08-16T05:34:57.398Z] debug: [twx-studio:upgrade:model_target_test] Copy of project files complete
+[2022-08-16T05:34:57.399Z] debug: [twx-studio:upgrade:model_target_test] Updating version to 
+[2022-08-16T05:34:57.399Z] debug: [twx-studio:upgrade:model_target_test] onupgrade sucessful, now build the project
+[2022-08-16T05:34:57.399Z] debug: [twx-studio:upgrade:model_target_test] BEGIN buildApp
+[2022-08-16T05:34:57.399Z] debug: [twx-studio:upgrade:model_target_test] write settings
+[2022-08-16T05:34:57.399Z] debug: [twx-studio:upgrade:model_target_test] copy runtime extensions
+[2022-08-16T05:34:57.748Z] debug: [twx-studio:upgrade:model_target_test] packageThemeSet
+[2022-08-16T05:34:58.840Z] debug: [twx-studio:upgrade:model_target_test] onBuild
+[2022-08-16T05:34:58.840Z] info: [twx-studio:upgrade:model_target_test] Building ves-ar-extension app:
+[2022-08-16T05:34:58.884Z] debug: [twx-studio:upgrade:model_target_test] pathDir
+[2022-08-16T05:34:58.884Z] debug: [twx-studio:upgrade:model_target_test] scaffoldDir
+[2022-08-16T05:34:58.884Z] debug: [twx-studio:upgrade:model_target_test] copySrc
+[2022-08-16T05:34:59.204Z] debug: [twx-studio:upgrade:model_target_test] buildApp
+[2022-08-16T05:35:00.124Z] debug: [twx-studio:upgrade:model_target_test] END buildApp
+[2022-08-16T05:35:00.124Z] debug: [twx-studio:upgrade:model_target_test] Build succeeded.
+[2022-09-01T08:48:22.230Z] debug: [twx-studio:upgrade:model_target_test] Begin upgrade of project
+[2022-09-01T08:48:22.231Z] info: [twx-studio:upgrade:model_target_test] Upgrading project
+[2022-09-01T08:48:22.232Z] debug: [twx-studio:upgrade:model_target_test] Make sure there are not any stale files lying around
+[2022-09-01T08:48:22.232Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-09-01T08:48:22.237Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-09-01T08:48:22.348Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-09-01T08:48:22.374Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-09-01T08:48:22.389Z] debug: [twx-studio:upgrade:model_target_test] Removing 
+[2022-09-01T08:48:22.395Z] debug: [twx-studio:upgrade:model_target_test] Copying /src/**/* to project, overwrite=false
+[2022-09-01T08:48:22.397Z] debug: [twx-studio:upgrade:model_target_test] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2022-09-01T08:48:22.490Z] debug: [twx-studio:upgrade:model_target_test] Copy of project files complete
+[2022-09-01T08:48:22.490Z] debug: [twx-studio:upgrade:model_target_test] Updating version to 
+[2022-09-01T08:48:22.490Z] debug: [twx-studio:upgrade:model_target_test] onupgrade sucessful, now build the project
+[2022-09-01T08:48:22.490Z] debug: [twx-studio:upgrade:model_target_test] BEGIN buildApp
+[2022-09-01T08:48:22.490Z] debug: [twx-studio:upgrade:model_target_test] write settings
+[2022-09-01T08:48:22.491Z] debug: [twx-studio:upgrade:model_target_test] copy runtime extensions
+[2022-09-01T08:48:22.749Z] debug: [twx-studio:upgrade:model_target_test] packageThemeSet
+[2022-09-01T08:48:23.839Z] debug: [twx-studio:upgrade:model_target_test] onBuild
+[2022-09-01T08:48:23.839Z] info: [twx-studio:upgrade:model_target_test] Building ves-ar-extension app:
+[2022-09-01T08:48:23.857Z] debug: [twx-studio:upgrade:model_target_test] pathDir
+[2022-09-01T08:48:23.857Z] debug: [twx-studio:upgrade:model_target_test] scaffoldDir
+[2022-09-01T08:48:23.857Z] debug: [twx-studio:upgrade:model_target_test] copySrc
+[2022-09-01T08:48:24.025Z] debug: [twx-studio:upgrade:model_target_test] buildApp
+[2022-09-01T08:48:24.490Z] debug: [twx-studio:upgrade:model_target_test] END buildApp
+[2022-09-01T08:48:24.490Z] debug: [twx-studio:upgrade:model_target_test] Build succeeded.
